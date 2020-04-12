@@ -1,0 +1,20 @@
+.courseList {
+  position: absolute;
+  width: 87px;
+  height: 141px;
+  top: 143px;
+  float: left;
+  margin-left: 15px;
+}
+.profilePic {
+  width: 66px;
+  height: 75px;
+  margin: 0 auto;
+}
+.profileButton {
+  position: absolute;
+  width: 87px;
+  height: 26px;
+  background: #ef667a;
+  border-radius: 20px;
+}
